@@ -119,20 +119,20 @@ you should plot decision graph to set params `density_threshold`, `distance_thre
 
 aggregation
 
-![](./data/result/aggregation decision graph.png)
-![](./data/result/aggregation label graph.png)
+![](data/result/aggregation_decision_graph.png)
+![](./data/result/aggregation_label_graph.png)
 
 jain
 
-![](./data/result/jain decision graph.png)
-![](./data/result/jain label graph.png)
+![](./data/result/jain_decision_graph.png)
+![](./data/result/jain_label_graph.png)
 
 flame
 
-![](./data/result/flame decision graph.png)
-![](./data/result/flame label graph.png)
+![](./data/result/flame_decision_graph.png)
+![](./data/result/flame_label_graph.png)
 
 spiral
 
-![](./data/result/spiral decision graph.png)
-![](./data/result/spiral label graph.png)
+![](./data/result/spiral_decision_graph.png)
+![](./data/result/spiral_label_graph.png)
